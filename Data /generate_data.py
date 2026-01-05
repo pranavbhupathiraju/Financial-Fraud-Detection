@@ -5,13 +5,22 @@ import uuid
 import random
 from faker import Faker
 from datetime import date, datetime
+import os
 
+
+# Get the directory where THIS script is currently sitting
+# This works whether the script is in root or in a subfolder
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Use that directory to build your file paths
+users_path = os.path.join(SCRIPT_DIR, 'users.json')
+merchants_path = os.path.join(SCRIPT_DIR, 'merchants.csv')
+transactions_path = os.path.join(SCRIPT_DIR, 'transactions.csv')
 
 #generate 1000 fake users with uuid, name, credit_score, and account_created
 def generate_users():
    faker = Faker()
    data = []
-
 
    for _ in range(1000):
        entry = {
@@ -22,9 +31,8 @@ def generate_users():
        }
        data.append(entry)
 
-
    #save all users to json file
-   with open('users.json', 'w') as f:
+   with open(users_path, 'w') as f:
        json.dump(data, f, indent=4)
 
 
@@ -50,7 +58,7 @@ def generate_merchants():
   
    #save all merchants to csv
    fieldNamesMerchant = ['id', 'name', 'category', 'risk_score']
-   with open('merchants.csv', 'w', newline='') as f:
+   with open(merchants_path, 'w', newline='') as f:
        writer = csv.DictWriter(f, fieldnames=fieldNamesMerchant)
        writer.writeheader()
        writer.writerows(data)
@@ -67,7 +75,7 @@ def generate_transactions():
    #returns dictionary with key -> user_id and value -> user_account_created
    def get_user_ids():
        try:
-           with open('users.json', 'r') as file:
+           with open(users_path, 'r') as file:
                users = json.load(file)
           
            if not isinstance(users, list):
@@ -92,7 +100,7 @@ def generate_transactions():
    def get_merchant_ids():
        merchants = {}
        try:
-           with open('merchants.csv', 'r') as file:
+           with open(merchants_path, 'r') as file:
                merchants_data = csv.DictReader(file)
                for merchant in merchants_data:
                    merchants[merchant['id']] = merchant['risk_score']
@@ -137,7 +145,7 @@ def generate_transactions():
 
 
    fieldNamesTransactions = ['transaction_id', 'user_id', 'merchant_id', 'amount', 'timestamp', 'is_fraud']
-   with open('transactions.csv', 'w', newline='') as file:
+   with open(transactions_path, 'w', newline='') as file:
        writer = csv.DictWriter(file, fieldnames=fieldNamesTransactions)
        writer.writeheader()
        writer.writerows(data)
