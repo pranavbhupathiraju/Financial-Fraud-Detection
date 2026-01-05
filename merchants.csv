@@ -1,0 +1,251 @@
+id,name,category,risk_score
+3748439a-54c7-4e59-ac87-b2d9ecc33403,Camacho-Clark,Home/Utilities,0.07304256396645208
+cb197459-e618-4d0c-b519-b0d86c939c22,Fletcher-Thomas,Home/Utilities,0.09116239566427672
+39777a9b-1483-4993-b537-fe0473e9a437,"Lawrence, Parker and Freeman",Health/Fitness,0.2865516567789348
+1e7356c9-7e6a-46aa-9333-5d5fe74ef05a,"Lewis, Austin and Stevens",Grocery,0.12873839559072361
+ee157d94-5241-4fe5-b150-6bba05edc0f5,Rogers-Rivera,Home/Utilities,0.08266504658748183
+2d171b5a-a66b-40bd-b647-655f1f51b1a7,Jarvis-Davis,Gas/Transport,0.16104207711006807
+c443a125-4644-4d6a-83fd-f071de637aed,"Jackson, Allen and Hebert",Entertainment,0.25153191414860343
+3bee6236-c618-4abf-aec5-a60a114c3a4d,Moran LLC,Home/Utilities,0.09295797672045193
+edededdc-7b7a-41e3-a977-f6508cdbdfa2,"Richardson, Jordan and Avila",Food/Dining,0.14612535970382629
+159811bc-6c5c-4f32-bb18-e2a05ec0cd2b,Coleman-Orozco,Grocery,0.12920604952977965
+0ff9cd63-a44e-49e7-a1f0-fb6da07a91b5,Owens PLC,Travel,0.6283272861394122
+1e387944-930b-4141-98d9-2467d5a1b245,Gutierrez-Garcia,Grocery,0.13091908316171746
+0beaf695-c144-414d-8138-47d352febf0a,Tyler-Valentine,Gas/Transport,0.19186798195465027
+ad5f9fee-6575-4357-94b9-9040244047c4,Glass Inc,Online/Retail,0.7416012179113011
+1ba64bfc-cc7e-476e-a0b4-770b7bbc5183,Parker-Mueller,Home/Utilities,0.07433816562992114
+79187fc6-9a2c-413c-b1bf-f7a9a0d378b2,Rojas and Sons,Grocery,0.08098307945821792
+5f3f382b-73bd-462e-bbd1-ba0355708803,"Mitchell, Brown and Salazar",Health/Fitness,0.4371180048709016
+86376744-407e-4cc6-9341-220d4541797a,George Group,Online/Retail,0.6747988093287509
+e4aa7015-bbe8-4fd3-b836-e808d0ec64d9,"Roberson, Warren and Stephens",Entertainment,0.4472169053859516
+55fa8905-2432-47c5-b9b8-7b25e002d51e,Griffith and Sons,Travel,0.5230470678413122
+48c68e7e-552b-4689-9ea0-98f16529d4b1,Adams-Simpson,Online/Retail,0.7777691248654255
+8fde39a1-fe09-4341-aa10-712f3648e5c9,Rodriguez-Ramirez,Entertainment,0.4209334448555121
+c62be8ee-f930-4cb7-b68e-327731c542e5,"Thomas, Hoffman and Roberts",Entertainment,0.26044773169198887
+3fc86d3f-5282-4716-af09-8b9b6fe5e8d8,Li LLC,Online/Retail,0.8291930893727284
+b0fe3716-3e28-4a05-a950-085e31b2dbf2,"Arias, Rhodes and Lewis",Food/Dining,0.16498272103342637
+858b6015-186e-4576-ba23-f9be2cafbc2c,"Ford, Reyes and Jones",Grocery,0.02337621022582363
+60e3680c-195c-4305-9c43-af6ffc8e9b55,Thompson-Bennett,Grocery,0.11488931876937679
+f3f949c0-7aa8-4a10-84aa-1b34e4df5421,"Stewart, Huang and James",Travel,0.5443540023443766
+5b79f7d9-515d-4f6b-bead-4c7d5ec95d8e,Anderson-Rodriguez,Home/Utilities,0.057278637897209016
+453f6e11-7517-4656-8b64-c470bb421640,"Horne, Moses and Gonzalez",Grocery,0.06474383178623185
+1c7f23c4-16ac-4a00-a67e-0c9d22e18db7,"Ramirez, Stephens and Harris",Entertainment,0.44818478662052696
+1a8061c6-3412-4da4-930e-c86d9874c1c0,"Keith, Juarez and Hunt",Grocery,0.0960100857795864
+2f22ef63-39cf-4241-91f7-bbad3b61cb6a,Wilson Ltd,Home/Utilities,0.0424812565385338
+309e26e6-7046-4fff-ac41-01ae568a61bb,"Bautista, Gilbert and Hudson",Food/Dining,0.18615950768569245
+1e0bca40-3e33-4679-a1e3-246f8a83be3d,Mason Group,Grocery,0.11600631121802929
+47cb9af0-9b98-4d82-aa24-1654cae13166,"Lee, Beasley and Morrow",Entertainment,0.43515244252950014
+85438468-1615-4480-912c-61b6c0b7c81b,Delgado-Hernandez,Home/Utilities,0.04750937591546314
+551a64f3-4977-4944-b52e-3f93f80d9001,White Inc,Health/Fitness,0.3248751778248787
+1a22b958-4681-4d68-9cb8-617cc8b2e168,Anderson-Ho,Food/Dining,0.11769413848177662
+b49e255c-d636-43c1-9562-f2ad07045758,Smith-Mills,Entertainment,0.318169856770085
+3c0e8cc8-599d-4cf8-b651-9b32ccd8cf01,Maynard Inc,Grocery,0.09797560660596581
+2c02b94d-f392-4358-8183-db34f70b32c6,Jones-Gibbs,Grocery,0.05586861761016555
+3ab52545-9055-486f-ab72-b229906492cd,Hester-Olsen,Gas/Transport,0.1829096810303175
+80ee6334-93ea-4a86-a099-3a1ab8b7001e,Davis Group,Travel,0.622221791256447
+8a7856ac-4412-4e8a-92a6-84faf00b7638,"Stein, Quinn and Molina",Health/Fitness,0.2103222893975111
+b75882d9-1f23-427f-be16-538006bd18dc,Ramos LLC,Health/Fitness,0.4476790210362357
+777601a2-2885-4518-af70-3f5495ff07f4,Todd-Diaz,Food/Dining,0.10862011798072886
+8c995a3f-512b-4d39-a5ba-3c6e839021e7,Weaver-Williams,Entertainment,0.3665494261379819
+f1944ba7-c055-4357-864f-4ea546297be0,Hicks-Wilson,Entertainment,0.4893610535166028
+943df6c9-9a5a-4e63-a47d-59dc7e02555b,Schroeder-Campbell,Food/Dining,0.12283978712402707
+082cf914-ad64-479d-8701-f5131328abcd,Jones Ltd,Online/Retail,0.5241622880601807
+27ea015e-e0d5-4970-977f-6721453a6052,Charles LLC,Health/Fitness,0.22144284364233308
+52202570-888c-4261-bc75-c1fd81b25373,"Lewis, Lopez and Zimmerman",Gas/Transport,0.13428153892748967
+48bd6946-dd8b-4518-9d9c-d0446b547681,"Atkins, Cole and Lewis",Food/Dining,0.13544594067119567
+597a84cd-47cd-4fba-a84b-b9e7d05d3b63,"Reid, Briggs and Sullivan",Entertainment,0.4471911223482674
+4a03702b-135d-41a3-a361-daf3bca25ced,"Bradley, Hernandez and Warren",Home/Utilities,0.04303492231964006
+5989fcd1-1f5b-403c-9215-f3920c7130d3,"Dean, Moore and Raymond",Health/Fitness,0.3916218812726866
+dfc81d26-0929-4b34-be74-6e950c956414,"Murphy, Rodriguez and Sherman",Gas/Transport,0.18941057848022813
+ae0a84af-d519-49e7-a255-75b34354b073,"Hernandez, Miller and Castillo",Home/Utilities,0.0716175164713993
+a85f75a3-3ff8-4c31-b571-e902d1ddb0e5,"Madden, Duran and Calderon",Health/Fitness,0.4847156498401474
+be2f47bd-ab58-4041-ac16-a276f6f07669,Mcpherson-Paul,Gas/Transport,0.13732591796173302
+dac4ef93-81e1-4a19-8210-e731176973df,"Martin, Simmons and Jones",Entertainment,0.2987166122258915
+3ab18b3b-993d-400f-8ce3-8ea6728446be,Simmons-Mclean,Grocery,0.01694229401862645
+0c9e6617-e62f-4eaa-846c-c7c38b62f247,Nolan and Sons,Home/Utilities,0.0370550272675625
+06f6c07b-2545-470b-baf0-fc1a8cd2b665,Morris and Sons,Grocery,0.06722909171096969
+0474892d-96b5-4f1e-9e11-16a6d6cf97e2,Miranda-Walters,Travel,0.7507822901336624
+51a99bb9-b9c4-4869-bee5-1ced5e0db3d3,Duran-Vargas,Food/Dining,0.148721683394359
+7af5ece4-72be-4784-b231-329530686d0b,Diaz LLC,Grocery,0.03246524261375666
+b5f29e28-d7f7-4b9d-8c5b-1c2d8862c42f,"Thomas, Morris and Friedman",Food/Dining,0.16330851816967096
+265a96b4-c016-48e0-a92a-2e9d056ea9e5,Johnson-Lewis,Grocery,0.011824029702456433
+67ff4c8a-94d6-4f73-9e02-6bbf7c2e639f,Rice-Randall,Health/Fitness,0.4068128249016981
+7d2c7085-2b99-4d7d-88a1-6f747f1a9fdb,Garcia-Allison,Online/Retail,0.8986046473098079
+4e7d1fbd-3be7-4579-bed7-5818b5887812,Pugh-Whitehead,Grocery,0.048925943357508404
+8ef1486a-441c-4b82-8bcc-358d1924cf7f,Davis Inc,Online/Retail,0.6295798396852539
+62697ecb-1673-4ccb-93d5-45c950e0b169,Anderson-Boyd,Gas/Transport,0.16676396519133585
+56d42919-489c-485c-905d-6e25f8639f8b,Moon LLC,Home/Utilities,0.012398618321275583
+264c3dca-79c6-4edd-8f31-69ba55d6486e,Burke Ltd,Entertainment,0.28409849125526965
+bc983b3b-5cf1-4ef6-8f15-328565d508ad,"Lewis, Chase and Watts",Online/Retail,0.6633532411014142
+b6dc8882-5da2-46b8-bfa5-7e2adc9e4828,Robinson-Beck,Health/Fitness,0.3232483354176481
+fe00a0d7-b446-4ca7-9994-888e5d9cce2b,"Johnston, Ferguson and Nguyen",Home/Utilities,0.08843454123128529
+61534f12-25a8-4b08-9f0f-647cb8c2d025,Alexander PLC,Health/Fitness,0.2432357640310802
+f67c00ce-57d5-48a6-a2e8-18b0e56cc485,Peters Ltd,Home/Utilities,0.08894379791200757
+842a121f-bfc3-4f5c-b198-16ea77db9a7b,Finley-House,Entertainment,0.36088592956306786
+6b269e90-d0c4-453d-8995-84c4b501bbcf,Miller PLC,Grocery,0.13711508245778903
+41f32f6c-ace0-4014-afa6-d29ab4670dc0,Cunningham-Roman,Health/Fitness,0.3716428226871382
+fb8a9f83-30c4-4ed1-bc25-4a6504a14f95,"Davidson, Wilson and Rowe",Travel,0.5228143687439983
+0b944b5f-bcaf-42c1-88ef-9a1909076f2a,Arellano PLC,Travel,0.7205415914316342
+995a0e6c-c0c5-4ecb-9c47-f9c2b322c0d4,Williams-Molina,Entertainment,0.3951999874079515
+31f622df-202a-44a0-90b6-22e5b754e626,Knox-Lopez,Health/Fitness,0.30286311762355633
+86f95395-25eb-4b02-8b4d-33ccac50dd8c,"Baxter, Wilson and Simpson",Online/Retail,0.690519733659478
+ff207cdf-7f9e-44f1-88ad-f3b1512e35f9,Webb-Zamora,Entertainment,0.3101412713132702
+cabc5b0c-2dba-42f3-9df1-7dc57a845de9,Richardson-Smith,Travel,0.7086452310963511
+304c644a-e1fa-4a67-be3b-bba99faa2b1f,"Sanders, Shepherd and Freeman",Travel,0.7291628348464924
+be722635-ecd9-4253-97ac-33f3557ccd23,Brown Group,Travel,0.6706848892154934
+1dd653dd-742e-480c-a13d-71b4aaec980d,Love LLC,Gas/Transport,0.19544814797732463
+3035fb1e-a7f9-48e4-8902-1b9c3ad0534d,"Edwards, Shepherd and Hampton",Health/Fitness,0.462369946895798
+b0e7ef32-d758-4965-88e0-1b4a3e229fdb,Snyder-Hernandez,Food/Dining,0.1594620422429804
+4bf0c6f7-f557-40cf-9e4a-81ce4f13279e,Fields LLC,Gas/Transport,0.17122548003939764
+912352e1-c4ce-4840-9467-3bc713ab8f53,"Bond, Gonzalez and King",Home/Utilities,0.01667193721211899
+c4cd8cf1-3f30-49cb-8f70-59ab62ff46cd,Harris-Glover,Grocery,0.11525857475540367
+d895dda6-bc6e-49ba-8a69-1a229e1eb291,Wilson LLC,Grocery,0.04905139555881735
+1d336adb-71aa-4990-bcdd-d749b5e8db5f,"Flores, Baker and Carter",Health/Fitness,0.323517026801321
+f04437d8-1618-4c1c-8860-4cd07e7cb495,"Williams, Price and Lopez",Food/Dining,0.14280648015919317
+0076a8ec-b5aa-4642-a4c8-9d86131ccb74,Phillips LLC,Health/Fitness,0.43606016743273746
+e40e9f57-17e5-48db-972e-b44abf04c26b,Beck PLC,Grocery,0.1284059703127405
+b3c9120b-cc17-44d4-80f2-d911d9455a1c,"Davis, Jacobs and Abbott",Online/Retail,0.6967168655551177
+2faf77a1-7fdb-4dd9-819d-9ffa40374bf1,"Pearson, Patterson and Simmons",Food/Dining,0.1531452320005997
+d43077a2-c649-4be7-a6bb-40c1476fec2d,Case Group,Health/Fitness,0.3405793265736946
+67efc4d5-687d-4d29-8608-5c2fd96426d2,Austin Inc,Entertainment,0.45240881666526106
+4bc8d01b-c831-4324-8806-a947f038abfb,"Macdonald, Robinson and Gutierrez",Gas/Transport,0.1839607788998246
+195a3f13-408f-4cc9-a060-847d7dccd608,"Lewis, Smith and Garcia",Food/Dining,0.15983491139418782
+3539cc26-7976-42d1-9521-e89ed2ae537c,Chapman LLC,Food/Dining,0.15053830054751444
+f1de19b3-9bf7-4f5a-abb5-11904d211fb9,Reynolds-Garrison,Home/Utilities,0.05560153131428947
+65e82281-8d48-4b38-bf3b-463884756132,"Adams, Reyes and Murphy",Health/Fitness,0.4266642563366132
+f72088b7-f067-455e-9dd8-709165a2e57f,Strickland and Sons,Health/Fitness,0.2798847641838203
+f1ebfb34-326e-4e44-a880-3215f8c428b8,Rios-Jackson,Home/Utilities,0.03956174496815937
+09164160-5082-4f9c-8307-922f1d646f9c,Ross and Sons,Health/Fitness,0.24378824442388086
+ded14b4d-0dc6-41ad-bc41-7e974e6da6c2,"Reeves, Landry and Cruz",Grocery,0.14447487245523669
+87632b37-94dc-42a2-868e-5b1dea341fbc,"Manning, Levine and Reed",Gas/Transport,0.17869188883198994
+dd33136f-41f7-4faf-a6bd-594d133c2ca9,"Anderson, Lee and Morris",Online/Retail,0.8822546971093567
+88c59780-76da-46c0-8a78-78c34c9bb5da,Trujillo and Sons,Travel,0.7845584362667735
+ac56e1b8-dc8d-4f0f-971f-437d5d8707f4,Patrick-Sullivan,Health/Fitness,0.3457581912364489
+5ae33eb2-bc42-419b-9061-60281085986c,Holden Inc,Home/Utilities,0.09988656966191478
+835d5670-4146-4703-8624-a978d8098be9,Weber-Wells,Health/Fitness,0.4308305743865767
+5cd5dab8-6c79-4986-9390-5bc54faea114,Barrett LLC,Food/Dining,0.16152828277291226
+59fd2943-5f36-445e-be01-4edc31e5668b,Kelly-Miller,Gas/Transport,0.16424909254893827
+4e4897c5-847e-4b54-887b-3d3674687a47,Anderson LLC,Home/Utilities,0.021679325644594363
+d4105b41-2d4f-40d8-8be0-1069054246e6,"Gallagher, Taylor and Dunn",Health/Fitness,0.21499311701016213
+013cebb8-c7ea-448b-b02a-a7ab33407c8f,Adams-Johnson,Travel,0.6044994884365387
+e8449f9e-6f88-4828-80e9-e6f476d07748,Espinoza-Smith,Entertainment,0.4368889552578814
+775f02cf-e7f9-4505-b7ea-bd3d4a3e2d27,Simpson LLC,Online/Retail,0.7452140566081445
+357894ff-3a25-46d3-896f-17e4238d2f7a,"Phillips, Parsons and Simmons",Entertainment,0.44914019288805995
+93b425be-72d0-44bb-a05d-607609195903,"Lam, Garcia and Jenkins",Entertainment,0.45506716582894563
+58c1ad71-6680-4595-9826-bb945def355d,"Smith, Porter and Barber",Gas/Transport,0.16400853222384632
+3ceb622d-7c88-4f74-a238-c76f36e3873b,"Phillips, Wallace and Smith",Food/Dining,0.1406749833282911
+30ec8a67-a51b-4b1b-a328-96cbf4e3b496,"Galloway, Rowe and Wood",Entertainment,0.2402062704015968
+92f05044-5e9a-4ad5-9d70-62f05bc1c4f7,Hernandez LLC,Grocery,0.09145822119685343
+e37134f0-9706-4460-8e3e-2827d9535475,Gonzalez-Pierce,Health/Fitness,0.29674104626318937
+750fb2bc-c106-4ab9-b62b-83d99e780096,"Snyder, Smith and Small",Home/Utilities,0.05891441252235366
+249736b0-a8b4-42a1-960c-a75830740c90,"Ortiz, Byrd and Mcguire",Gas/Transport,0.17803486649215808
+bdf02318-7a04-4043-9281-eabe2ee37e15,Rivera-Henry,Gas/Transport,0.15271255937962097
+81ff884b-52db-43dc-9f3a-6c8d0bdbe692,"Boyd, Merritt and Ortiz",Online/Retail,0.6448358934608469
+930ad005-b253-4293-a149-a1c9cc3b832c,"Garner, Rice and Nichols",Grocery,0.07794579894613682
+4251bb2c-48af-4ef3-b892-49a82b558c35,"Hernandez, Sanders and Perez",Entertainment,0.39171098167827356
+bd8d0b46-5369-41ae-8f1b-b7331ba436fe,Castro-Young,Travel,0.6849328807560175
+f03beaab-0971-4088-9a4f-268526f65ece,Johnson-Barnes,Health/Fitness,0.23134593478707904
+ecbfea1b-b76c-43a0-a9f6-b3de4c61458f,"Marshall, David and Foster",Health/Fitness,0.2894716731968624
+7a08bae3-0b30-435d-ad07-57bf5be31ce0,Thomas Group,Online/Retail,0.8928440137651619
+868a1773-0bb5-4e42-8fd5-2f117a61e521,Moore Ltd,Travel,0.5557822203460129
+1191f192-cd1c-478a-820b-295468fb8055,Farmer PLC,Home/Utilities,0.030665843610031482
+73743086-a196-49b7-aec5-ba8464055b02,Nguyen-Chung,Entertainment,0.48448692347142625
+e0c0b79e-d987-440e-a098-6089975e9861,Smith-Johnson,Home/Utilities,0.06154851820824886
+d0af809a-d696-4627-bdd7-c54be6bc62d5,Sanders Inc,Home/Utilities,0.09483336011112022
+00e33a2b-866d-4388-a09f-925bce6cd67c,Carroll-Hodge,Online/Retail,0.786015997825041
+3312f6f7-1d09-4c5a-adbd-5f5900fe0b02,Daniels-Allen,Entertainment,0.25997792015636423
+52a571d3-f58e-43c0-a3de-7339c9695452,"Cherry, Chapman and Palmer",Gas/Transport,0.19812105421925003
+466eea00-6b76-43c0-9e86-5f265835e7a6,Jones-Jones,Online/Retail,0.559659509073023
+86e4ea32-bec3-4af9-a480-07050fea4d89,"Lee, Bennett and Moore",Gas/Transport,0.19107588108267165
+b89039c8-9dca-468f-8724-475ed11467d1,"Page, Charles and Norman",Home/Utilities,0.0649827255479166
+2377a86a-a28a-46bf-af5e-6547d6359ab4,"Frazier, Barnes and Cook",Food/Dining,0.14849935852444024
+53ba4883-c32e-4ce7-8003-5de343262ab8,Smith-Goodwin,Food/Dining,0.16285820012849261
+c8b263a6-dcb6-46fb-9c0b-1b6ecc0515d3,Haas-Green,Home/Utilities,0.0775953329048583
+6ce232b5-562b-4b77-9017-101325a94323,"Kaufman, Bradford and Edwards",Online/Retail,0.8812666135633953
+0156f0f1-4133-488d-b360-6cf8e942bdd5,Boone-Williams,Entertainment,0.40067463740021353
+0026277d-74bb-4d92-86fb-aa4ae3930648,Santiago-Smith,Food/Dining,0.11396327879457391
+8c8b42e7-c497-49f5-a4aa-3bb5183a6dcc,Mitchell-Chen,Online/Retail,0.7065546342566841
+29078913-a1eb-489d-b488-75f80139fb77,Lucas Inc,Gas/Transport,0.12037610354403594
+23c7444f-4661-4914-bd80-26b54df5d4a6,Hill-Wilson,Gas/Transport,0.12634663322104578
+da0d45c8-5c4f-4293-aa88-cbc4a22d6bad,"Harris, Murray and Bates",Grocery,0.08622635416863467
+be13f6d4-a50c-45a4-b644-644011777883,Smith-Myers,Online/Retail,0.6758279006948326
+04c71ce1-7936-4db1-afcf-54e79b57107e,Dixon PLC,Travel,0.7718770969276865
+243340be-497a-4a9c-af71-275b4a965955,Burke Inc,Grocery,0.06449717546933095
+d9310b31-b722-47d0-bef3-a613b11e6d91,Stevens-Phillips,Gas/Transport,0.1735853452119002
+0e1ad96d-31d5-4779-a201-e2dd11ddefc2,Mills PLC,Home/Utilities,0.059394830949798694
+020e6d7a-1c37-4ffb-bf34-70e0408f7192,Richards-Nelson,Travel,0.6156941412037447
+10a03fc2-bb63-4698-b6e5-358ed7331359,Jones Group,Health/Fitness,0.3758054125764427
+694fa50f-adec-4f04-8eb2-e53c9872d393,Swanson Ltd,Gas/Transport,0.1603774530483484
+70c5bf9a-ae0f-416f-a3fb-9b17495a0387,Berg Ltd,Entertainment,0.379528924946975
+4de2b59a-b2f3-41b2-93f8-37f266241846,Cruz-Evans,Entertainment,0.3973100744161103
+86e04c95-b32a-41de-891d-d67b180def02,Arellano LLC,Entertainment,0.30660835770352285
+9de14f2d-1350-4468-a967-aa47af89fc65,"Miller, Crawford and Arnold",Online/Retail,0.7251714587315148
+b03d7aed-ccda-46ad-976b-904e23bb512d,Campbell Ltd,Health/Fitness,0.39526741109760305
+0b89101d-8b4b-4d44-9fb6-f2ed38bfec65,Meyer Inc,Entertainment,0.4258994164993737
+d9a5fafc-631d-4e29-977c-70ed7179dee2,Mccormick Ltd,Grocery,0.12255944130958299
+b3391830-0e8d-4ff9-8e17-5109df12e885,Fox-Reeves,Gas/Transport,0.1951324501816377
+835a0e31-5232-4823-a2b6-8fe02ee5a256,"Jackson, Navarro and Mclaughlin",Gas/Transport,0.11556916823283366
+e6d97dfd-9590-448e-b5c2-6739731bc336,Mahoney PLC,Home/Utilities,0.0350366366718135
+47aca768-d002-46cb-b1c4-c35472bb4cba,Dunlap-Johnson,Travel,0.7354525056136383
+551d5f68-073b-44aa-acae-4ce98a554825,Anderson-Smith,Health/Fitness,0.4101608631157809
+cd930e75-849c-4004-a84c-c773980fc5fb,Johnson-Williams,Entertainment,0.23574807622624028
+4e8bff77-2304-446c-a950-9c14d445830d,"Cox, Garcia and Valdez",Entertainment,0.4731484112509698
+a0487006-5f53-403b-b050-b090a9294870,Peterson PLC,Food/Dining,0.11475913166711928
+4f525498-8567-4058-8358-80a216fa9362,Robbins-Parker,Food/Dining,0.11249941569726915
+33293a9f-c758-437b-8a50-f59b3df5da68,Taylor-Carr,Health/Fitness,0.3191428829047302
+10f7b3e0-6539-4400-9dc8-1f18e2453c09,Hill-Hill,Home/Utilities,0.0579620953986657
+56967d50-c3b8-41c1-b942-4104d91648e4,Thompson-Carrillo,Food/Dining,0.1643946166484238
+83e71721-46fd-41a6-833a-9c6d5c4ebb25,Richards Ltd,Food/Dining,0.19220759266100002
+c8bf10ae-e487-4637-83d0-1c5140e055c1,Thomas-Olson,Health/Fitness,0.46066722842815055
+bf378f35-c7a0-45ac-ae11-8ffdf3eacb62,Stewart-Jenkins,Health/Fitness,0.4377634233980605
+4e85537f-9894-4357-a5a3-fe2cd864cb72,Franklin LLC,Entertainment,0.4071606588359036
+9e9fa9f0-071e-4ecd-8a2c-e008d0ad85b4,Villarreal-Chang,Grocery,0.12791647228866515
+750c3774-dbfc-4069-af5f-a4f753ee9304,"Phillips, Wells and Gilbert",Online/Retail,0.8358217563029229
+8dd292e2-7f1f-4fce-940d-30e728aac916,Fletcher-Morgan,Home/Utilities,0.07401601290421288
+e9f0e281-d23f-4882-a13a-2325016ed6e9,Lowe-Strickland,Entertainment,0.35113814481258193
+06531d03-f45d-4a81-9c38-927f20699471,"Payne, Jackson and Johnson",Home/Utilities,0.09456764301847376
+8ea9e20b-de6f-4514-ad3c-e1810c4af89f,Hoover-Lewis,Home/Utilities,0.023357248150964603
+22ee39f6-b02d-4958-aa34-5e588923bf42,Hamilton Group,Entertainment,0.3753143507374253
+bb7b16c3-7be6-466b-8aa6-49d64f90f0e2,Green-Simmons,Health/Fitness,0.3266285776892158
+98045171-8e6e-4bce-924b-a1022734b2ba,"Schultz, Peters and Holt",Health/Fitness,0.41455298729724527
+ea5356e7-c8bf-496e-b88d-ce08f39a39b5,Rice-Williams,Grocery,0.14273144925039763
+8a78b300-60eb-4a71-9ae5-f8317adbbb4b,"Villegas, Jones and Smith",Online/Retail,0.7347178219437017
+ba427b37-2538-441c-bde0-8b09f838db92,"Ray, Douglas and Peterson",Grocery,0.10210295711817251
+45822f82-855c-4331-99f8-317397d59bbe,"Petty, Knight and Riddle",Home/Utilities,0.0941325754106876
+995d5b24-3cd5-4474-9f56-428bf15c002a,Sherman-Evans,Health/Fitness,0.3024725363141533
+8d77a456-490a-4824-adae-171939ad4847,"Martin, Gill and Parker",Health/Fitness,0.46134692531345833
+20ee78c2-e32d-41be-9af7-3d7d7a940ec0,Jones PLC,Online/Retail,0.5460084864357084
+dd75a5d7-1474-4cb7-96d7-e322cc8063c8,Santos-Dennis,Food/Dining,0.15121349553475477
+9b70effa-aef8-42be-a677-6c7925ad6625,Gomez LLC,Grocery,0.10006656171695369
+e500c9bd-6cb4-4721-98d7-bc2d8bcdd0dd,Skinner-Anthony,Health/Fitness,0.2864327625056525
+72a93626-17cf-4283-8caa-79499c92e119,Carney Ltd,Online/Retail,0.7420659151780991
+6426f98a-1531-42af-976e-f2fe0d209f34,Boone-Mitchell,Grocery,0.0118295781411232
+538b1d93-4601-4af8-aecb-ee0ae62bfef3,Lopez-Smith,Travel,0.6611846553874352
+66736036-a593-4053-9a41-7f31fc17d3a1,"Morton, Bruce and Lawrence",Travel,0.5390115192342725
+f946ddcf-f54c-4f89-bd6c-1fe104f5ddf9,Schneider-Velasquez,Gas/Transport,0.1725219806776282
+4d5a4b97-9050-448d-9f91-aa1746fdcdc1,"Williams, Adams and Morris",Grocery,0.14226509685701705
+f74cc4af-7a54-4fc5-95db-1d960fdf3a64,"Simmons, Hart and White",Food/Dining,0.13108789041617758
+896eb238-a94b-4fd9-8674-dcac76294beb,Perry Ltd,Online/Retail,0.683459689036987
+ea4b4043-42e8-462d-a7fb-cc5a09a39de1,Garcia-Williams,Home/Utilities,0.03463553076047695
+9d469570-a734-4e46-8ed8-7d80ffe4c471,"Wagner, Gonzales and Diaz",Gas/Transport,0.13699583147215033
+6131d6dd-bcd7-4145-b05c-2b69734db989,Kennedy-Davis,Online/Retail,0.5545685168463644
+0ce74db3-8524-46ab-b0cb-5e58704a5ebc,Johnson-Fields,Health/Fitness,0.28071320390226867
+0234f44f-0589-40c1-9245-741c4a5a76b0,"James, Long and Moses",Travel,0.6912035415534199
+57f7424a-3803-40e3-86d7-6fdde0ac3a52,"Summers, Mckinney and Colon",Gas/Transport,0.15118213083213122
+6a628e49-b8d2-4714-8a22-5576c17c8441,"Patterson, Oneal and York",Food/Dining,0.13518172102352094
+eb9df99f-bc92-476b-a3ab-dcd5839048c8,Wade-Fernandez,Home/Utilities,0.08238790088916284
+e0ab6f45-d414-4f16-bd44-c93f23bb45c0,Santos Group,Food/Dining,0.11141108408716363
+1cfc4035-bccc-47fe-963c-556b8b0248a1,Hoffman-Robinson,Entertainment,0.4375570654796539
+0b7d0b36-8b21-4135-81cd-43a378ccf6c8,Carroll PLC,Food/Dining,0.142253728448352
+d35d8637-09fa-4e76-86b7-ceff99012743,"Smith, Nguyen and Arias",Food/Dining,0.17766325992414245
+12b07930-517f-4541-b273-9d30f9874505,Kline-Charles,Gas/Transport,0.18654101826121175
+9fcd1648-7396-49e8-8b4d-936b1718df8a,"Weber, Sutton and Pierce",Gas/Transport,0.1564062364632579
+9b680b4b-1ac5-4ff8-9581-137508e49cb0,"Stokes, Sims and Smith",Health/Fitness,0.2754970546517787
+4b3fe8fd-19c6-4ddd-8e5c-86ac0d6609fb,Williams-Jackson,Health/Fitness,0.29905862950845485
+67ac83b6-3139-4c8a-aab9-62daf8966042,Delgado-Estrada,Home/Utilities,0.06389090334090529
+d2ceb54e-b1de-4bea-a204-2ed80fdbaed4,Pearson-Olson,Gas/Transport,0.1426296692087095
+b1a4a9eb-9bbf-45b1-b247-c20e3b809b83,Torres LLC,Health/Fitness,0.26718665948411613
+ab5d229b-38fb-4bda-aa06-b6c7fb506de1,Green-Snow,Gas/Transport,0.14873798493995333
+13f2c236-cb0d-4489-a8a8-f04830994b89,Garrett Ltd,Home/Utilities,0.014899618939283167
+cee0b84d-c26c-4f75-ba51-8e26575936c9,Rivera-Snyder,Online/Retail,0.7097745752401082
+f185b19a-0389-474b-9069-c17e9bbfd559,Sandoval Inc,Entertainment,0.45885692706306486
